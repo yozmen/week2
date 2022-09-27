@@ -2,9 +2,9 @@ package inheritance;
 
 public class PersonManager {
     public void list(){
-        System.out.println("Listelendi");
+        System.out.println("Listelendi...");
     }
     public void add(){
-        System.out.println("Eklendi");
+        System.out.println("Eklendi!!");
     }
 }
