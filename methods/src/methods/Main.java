@@ -5,7 +5,7 @@ public class Main {
         findNumber();
     }
     public static void findNumber(){
-        int [] numbers = new int[] {1,2,6,8,9,0};
+        int [] numbers = new int[] {1,2,6,8,9,10};
         int findNumber = 7;
         boolean avaible= false;
 

@@ -16,13 +16,13 @@ public class Main {
         System.out.println(total);
     }
     public static void add(){
-        System.out.println("Eklendi");
+        System.out.println("Eklendi.");
     }
     public static void delete(){
-        System.out.println("Silindi");
+        System.out.println("Silindi.");
     }
     public static void update(){
-        System.out.println("Güncellendi");
+        System.out.println("Güncellendi.");
     }
     public static int topla(int number1,int number2){
         return number1+number2;
