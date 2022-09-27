@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="classes/src"/>
+	<classpathentry kind="src" path="classesWithAttribute/src"/>
+	<classpathentry kind="src" path="inheritance/src"/>
+	<classpathentry kind="src" path="inheritanceDemo/src"/>
+	<classpathentry kind="src" path="methodOverloading/src"/>
+	<classpathentry kind="src" path="methods/src"/>
+	<classpathentry kind="src" path="methods2/src"/>
+	<classpathentry kind="src" path="reCapDemo/src"/>
+	<classpathentry kind="output" path="classes/out/production/classes"/>
+</classpath>
