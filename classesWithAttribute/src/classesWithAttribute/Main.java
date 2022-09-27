@@ -7,7 +7,7 @@ public class Main {
 //        product.setName("Laptop");
 //        product.setId(1);
 //        product.setDescription("Asus");
-//        product.setPrice(20000);
+//        product.setPrice(30000);
 //        product.setStockAmount(3);
 
 
